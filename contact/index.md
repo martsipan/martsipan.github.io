@@ -3,4 +3,5 @@ layout: default
 title: Contact
 ---
 
-Hello!
+martaforsberg at gmail com
+

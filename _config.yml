@@ -1,9 +1,14 @@
 title: Marta Forsberg
-locale: en_US
-description: Composer, sound and light artist, violinist. Based in Stockholm and Berlin.
-url: http://localhost:4000
+description: Composer, sound & light artist, violinist.
+image_url: /assets/images/background.jpg
+image_width: 999
+image_height: 852
+image_type: image/jpeg
 
-# Jekyll configuration
+# configuration
+
+url: http://localhost:4000
+locale: en_US
 
 markdown: kramdown
 sass:

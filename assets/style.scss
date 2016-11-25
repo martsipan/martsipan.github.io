@@ -5,7 +5,7 @@
 
 $white: #fff;
 $black: #000;
-$puss: #eb5ed6;
+$puss: #ec5ed6;
 $puffy: #fef4d6;
 
 /* font */
@@ -32,7 +32,7 @@ $mobile-breakpoint: 600px;
 
 @keyframes blinky {
   0%   { background-color: $puss; }
-  100% { background-color: #fbd7f5; }
+  100% { background-color: lighten($puss, 30%); }
 }
 
 /* mixins */
@@ -107,8 +107,13 @@ a {
   }
 
   &.active {
-    border-bottom: 1px solid lighten($puss, 20%);
+    text-decoration: underline;
   }
+}
+
+img {
+  width: 100%;
+  max-width: 100%;
 }
 
 /* kreski */
@@ -163,7 +168,7 @@ body.home {
 }
 
 .sidebar,
-.content {
+.container {
   float: left;
 }
 
@@ -171,14 +176,19 @@ body.home {
   width: 25%;
 }
 
-.content {
-  @include box();
-
+.container {
   width: 75%;
   max-width: 600px;
 
-  margin-top: 50px;
-  margin-bottom: 50px;
+  text-align: center;
+}
+
+.content {
+  @include box();
+
+  display: inline-block;
+
+  margin: 50px auto;
 
   padding-top: 1em;
   padding-bottom: 1em;
@@ -210,6 +220,22 @@ body.home {
       margin-top: 12px;
     }
   }
+
+  ul,
+  ol {
+    float: right;
+
+    li {
+      text-align: left;
+    }
+
+    clear: both;
+  }
+}
+
+.picture {
+
+
 }
 
 @media (max-width: $mobile-breakpoint) {
@@ -219,7 +245,7 @@ body.home {
   }
 
   .sidebar,
-  .content {
+  .container {
     width: 100%;
   }
 }

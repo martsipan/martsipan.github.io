@@ -1,4 +1,6 @@
 ---
 layout: default
-home: true
+title: Music
 ---
+
+Hello!

@@ -4,33 +4,41 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="cleartype" content="on">
-
-  <title>{% if page.title %}{{ page.title }} &#8211; {% endif %}{{ site.title }}</title>
-  {% if page.excerpt %}<meta name="description" content="{{ page.excerpt | strip_html }}">{% endif %}
-
+  <title>{% if page.title %}{{ page.title }} ~ {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{{ site.description }}">
   <meta property="og:locale" content="{{ site.locale }}">
-  <meta property="og:type" content="article">
-  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-  {% if page.excerpt %}<meta property="og:description" content="{{ page.excerpt | strip_html }}">{% endif %}
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="{% if page.title %}{{ page.title }} ~ {% endif %}{{ site.title }}">
+  <meta property="og:description" content="{{ site.description }}">
   <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.github.url }}">
   <meta property="og:site_name" content="{{ site.title }}">
-
   <link rel="stylesheet" href="{{ site.github.url }}/assets/style.css">
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
-
   <link rel="shortcut icon" href="{{ site.github.url }}/favicon.ico">
-  <link rel="shortcut icon" href="{{ site.github.url }}/favicon.png">
+  <script type="text/javascript" src="{{ site.github.url }}/assets/kreski.js"></script>
 </head>
-<body>
-  <h1>Marta Forsberg</h1>
-  <nav role="navigation">
-    <ul>
-    {% for link in site.data.navigation %}
-      <li><a href="{{ site.github.url }}{{ link.url }}">{{ link.title }}</a></li>
-    {% endfor %}
-    </ul>
-  </nav>
-  <hr>
-  {{ content }}
+<body{% if page.home %} class="home"{% endif %} onload="kreski.initialize()">
+  <canvas id="kreski" class="kreski"></canvas>
+  <div class="wrapper">
+    <header class="header">
+      <h1><a href="{{ site.url }}" {% if page.home %} class="active"{% endif %}>Marta Forsberg</a></h1>
+    </header>
+    <div class="container">
+      <div class="sidebar">
+        <nav role="navigation" class="navigation">
+          {% assign current = page.url | downcase | split: '/' %}
+          <ul>
+          {% for link in site.data.navigation %}
+            {% assign name = link.url | downcase | split: '/' %}
+            <li><a href="{{ site.github.url }}{{ link.url }}"{% if name[1] == current[1] %} class="active"{% endif %}>{{ link.title }}</a></li>
+          {% endfor %}
+          </ul>
+        </nav>
+      </div>
+      <div class="content">
+        {{ content }}
+      </div>
+    </div>
+  </div>
 </body>
 </html>

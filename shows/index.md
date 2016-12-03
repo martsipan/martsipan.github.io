@@ -5,7 +5,7 @@ title: Shows
 
 SELECTED PERFORMANCES 2016
 
-NOV 12 Weave and Dream, Sound of Stockholm, Fylkingen, Stockholm.
+NOV 12 Weave and Dream, Sound of Stockholm, Fylkingen, Stockholm <BR>
 OCT 23 Sound installation for Bengt Lindström exhibition (premier), Länsmuseet Västernorrland, Härnösand.
 SEP 29 - OCT 1 Weave and Dream, Harpa Reykjavik Concert Hall, Island.
 SEP 27 To All Frequencies I Can Not Sense for Serenus Zeitblom Oktett (premier), St Elisabeth Kirche, Berlin.

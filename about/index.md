@@ -3,10 +3,8 @@ layout: default
 title: About
 ---
 
-# Huhu!
+Marta Forsberg is a Swedish violinist and composer working in the field of free improvisation, electroacoustic and drone music. Dedicated to creating an all embracing environment, Forsberg’s work extends the sensory realm through multichannel expansion and via light sculptures, a sonic visualisation.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+In 2012 Marta founded Konstmusiksystrar together with composer Lo Kristenson. An women and trans separatistic organisation working for equality in the Contemporary Music scene in Sweden. More info at www.konstmusiksystrar.se
 
-# Haha
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+In 2016 she finished her Batchelor in Electroacoustic Music at the Royal College of Music in Stockholm.

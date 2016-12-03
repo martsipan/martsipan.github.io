@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Shows
-picture: /assets/images/background.jpg
 ---
 
 SELECTED PERFORMANCES 2016

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: About
+picture: /assets/IMG_4752.JPG
 ---
 
 Marta Forsberg is a Swedish violinist and composer working in the field of free improvisation, electroacoustic and drone music. Dedicated to creating an all embracing environment, Forsberg’s work extends the sensory realm through multichannel expansion and via light sculptures, a sonic visualisation.

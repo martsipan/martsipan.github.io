@@ -7,11 +7,8 @@ picture: /assets/images/background.jpg
 SELECTED PERFORMANCES 2016
 
 NOV 12 Weave and Dream, Sound of Stockholm, Fylkingen, Stockholm
-
 OCT 23 Sound installation for Bengt Lindström exhibition (premier), Länsmuseet Västernorrland, Härnösand
-
 SEP 29 - OCT 1 Weave and Dream, Harpa Reykjavik Concert Hall, Island
-
 SEP 27 To All Frequencies I Can Not Sense for Serenus Zeitblom Oktett (premier), St Elisabeth Kirche, Berlin
 JUNE 28 - JULY 24 Light Colours (premier), Konserthuset, Stockholm
 MAY 15 Duo with Sören Runolf, Old And New Dreams, Pygméteatern, Stockholm

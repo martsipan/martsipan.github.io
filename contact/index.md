@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Contact
-picture: /assets/images/IMG_4737.JPG
+picture: /assets/images/light.jpg
 ---
 
 contact at martaforsberg com
-

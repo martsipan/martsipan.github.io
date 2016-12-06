@@ -4,6 +4,7 @@
   var MEDIA_PREVIEW_SELECTOR = '.media-preview';
   var MEDIA_PLAYER_ID = 'media-player';
   var MEDIA_PLAYER_VISIBLE_CLASS = 'visible';
+  var MEDIA_PLAYER_BODY_VISIBLE_CLASS = 'player-visible';
   var MEDIA_PLAYER_CONTENT_ID = 'media-content';
   var MEDIA_PLAYER_BUTTON_ID = 'media-close';
 
@@ -31,11 +32,13 @@
 
   function show(id) {
     player.classList.add(MEDIA_PLAYER_VISIBLE_CLASS);
+    document.body.classList.add(MEDIA_PLAYER_BODY_VISIBLE_CLASS);
     content.innerHTML = embeds[id];
   }
 
   function hide(id) {
     player.classList.remove(MEDIA_PLAYER_VISIBLE_CLASS);
+    document.body.classList.remove(MEDIA_PLAYER_BODY_VISIBLE_CLASS);
     content.innerHTML = '';
   }
 

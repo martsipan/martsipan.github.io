@@ -93,6 +93,10 @@ body.home {
   height: auto;
 }
 
+body.player-visible {
+  overflow: hidden;
+}
+
 a {
   color: inherit;
 

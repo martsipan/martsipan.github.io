@@ -1,0 +1,17 @@
+{% include header.html %}
+<div class="media-player" id="media-player">
+  <div class="media-close" id="media-close"></div>
+  <div class="media-content" id="media-content"></div>
+</div>
+<div class="media">
+{% for media in site.data.media %}
+  <div class="media-item">
+    <h2>{{ media.title }}</h2>
+    {% if media.description %}
+    <p>{{ media.description }}<p>
+    {% endif %}
+    <div class="media-preview" data-url="{{ media.url }}"></div>
+  </div>
+{% endfor %}
+</div>
+{% include footer.html %}

@@ -1,5 +1,4 @@
 (function(window, document) {
-
   'use strict';
 
   var CANVAS_SELECTOR_ID = 'kreski';
@@ -99,5 +98,4 @@
   };
 
   window.kreski = window.kreski || kreski;
-
 })(window, document);

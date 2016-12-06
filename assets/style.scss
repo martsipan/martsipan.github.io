@@ -187,7 +187,7 @@ body.home {
   text-align: center;
 }
 
-.content {
+.content, {
   @include box();
 
   display: inline-block;
@@ -196,7 +196,10 @@ body.home {
 
   padding-top: 1em;
   padding-bottom: 1em;
+}
 
+.content,
+.media {
   text-align: right;
 
   line-height: 1.3;
@@ -237,9 +240,8 @@ body.home {
   }
 }
 
-.picture {
-
-
+.media {
+  margin-top: 50px;
 }
 
 @media (max-width: $mobile-breakpoint) {
@@ -292,6 +294,136 @@ body.home {
   @for $i from 2 through 5 {
     li:nth-child(#{$i}) a {
       color: lighten($puss, 4% * $i);
+    }
+  }
+}
+
+/* media */
+
+.media-item {
+  @include box();
+
+  width: 45%;
+
+  margin-bottom: 1em;
+
+  float: left;
+
+  display: inline-block;
+
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+.media-item:nth-child(2n) {
+  margin-left: 10%;
+}
+
+.media-preview {
+  display: table;
+
+  width: 100%;
+  height: 150px;
+
+  text-align: center;
+
+  cursor: pointer;
+
+  background-color: rgba($puss, .1);
+  background-size: cover;
+  background-position: center;
+
+  &::after {
+    display: table-cell;
+
+    content: '>';
+
+    vertical-align: middle;
+
+    font-size: 38px;
+  }
+
+  &:hover {
+    opacity: .5;
+  }
+}
+
+@media (max-width: $mobile-breakpoint) {
+  .media-item {
+    width: 100%;
+  }
+
+  .media-item:nth-child(2n) {
+    margin-left: 0;
+  }
+}
+
+/* player */
+
+.media-player {
+  position: fixed;
+
+  display: none;
+
+  width: 100%;
+  height: 100%;
+
+  left: 0;
+  top: 0;
+
+  z-index: 9999;
+
+  background-color: rgba($puss, .8);
+
+  &.visible {
+    display: table;
+  }
+}
+
+.media-content {
+  display: table-cell;
+
+  max-width: 50%;
+
+  vertical-align: middle;
+
+  iframe {
+    max-width: 900px;
+    margin: 0 auto;
+  }
+}
+
+.media-close {
+  position: fixed;
+
+  top: 0;
+  right: 0;
+
+  padding: 20px;
+
+  cursor: pointer;
+
+  color: $white;
+
+  &::after {
+    display: inline;
+
+    content: 'X';
+
+    font-size: 30px;
+
+    color: inherit;
+  }
+
+  &:hover {
+    color: $puss;
+  }
+}
+
+@media (max-width: $mobile-breakpoint) {
+  .media-content {
+    iframe {
+      width: 100%;
     }
   }
 }

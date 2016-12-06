@@ -1,6 +1,4 @@
 ---
-layout: default
+layout: media
 title: Music
 ---
-
-# Soon there will be music here <3

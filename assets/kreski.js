@@ -83,11 +83,17 @@
       });
 
       window.addEventListener('touchmove', function($event) {
-        move($event.pageX, $event.pageY);
+        var touch = $event.changedTouches[0];
+        move(touch.pageX, touch.pageY);
       });
 
-      window.addEventListener('click', function($event) {
+      window.addEventListener('mousedown', function($event) {
         setOrigin($event.pageX, $event.pageY);
+      });
+
+      window.addEventListener('touchstart', function($event) {
+        var touch = $event.changedTouches[0];
+        setOrigin(touch.pageX, touch.pageY);
       });
     }
   };

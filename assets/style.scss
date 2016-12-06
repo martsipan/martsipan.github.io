@@ -89,6 +89,10 @@ body {
   color: $puss;
 }
 
+body.home {
+  height: auto;
+}
+
 a {
   color: inherit;
 

@@ -78,8 +78,12 @@
         prepare(elems[i]);
       }
 
-      document.getElementById(MEDIA_PLAYER_BUTTON_ID).addEventListener('click', hide);
-      player.addEventListener('click', hide);
+      var button = document.getElementById(MEDIA_PLAYER_BUTTON_ID);
+
+      if (button) {
+        button.addEventListener('click', hide);
+        player.addEventListener('click', hide);
+      }
     }
   };
 

@@ -3,6 +3,11 @@ layout: default
 title: Shows
 ---
 
+# SELECTED PERFORMANCES 2017
+
+* MAR 8 Solo, Länsmuseet Murberget, Härnösand
+* MAR 5 - 8 Interactive sound and light installation for children, Länsmuseet Murberget, Härnösand
+
 # SELECTED PERFORMANCES 2016
 
 * NOV 12 Weave and Dream, Sound of Stockholm, Fylkingen, Stockholm

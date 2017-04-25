@@ -10,4 +10,4 @@ In 2012 Marta founded Konstmusiksystrar together with composer Lo Kristenson. A 
 
 In 2016 she finished her Bachelor in Electroacoustic Music at the Royal College of Music in Stockholm.
 
-Releases - DISQUIET (heart) at [XKatedral](https://xkatedral.bandcamp.com/album/xkatedral-volume-ii-2)
+Releases - DISQUIET (heart) at [XKatedral](https://xkatedral.bandcamp.com/album/xkatedral-volume-ii-2).

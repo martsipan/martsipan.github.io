@@ -5,6 +5,8 @@ title: Shows
 
 # SELECTED PERFORMANCES 2017
 
+* MAY 12 Solo, Noden, Stockholm
+* MAY 7 Quaver together with Ivo Nilsson, Fylkingen, Stockholm
 * MAR 8 Solo, Länsmuseet Murberget, Härnösand
 * MAR 5 - 8 Interactive sound and light installation for children, Länsmuseet Murberget, Härnösand
 

@@ -6,8 +6,8 @@ title: Shows
 # SELECTED PERFORMANCES 2017
 
 * JUN 28 Solo, Rotor, Berlin
-* JUN 23 Solo, Acting in Concert, Witten
-* JUN 8 - JUL 7 Light Colours, Galleri Majkens, Stockholm
+* JUN 23 Solo, [Acting in Concert Festival](http://www.actinginconcert.org/), Witten
+* JUN 8 - JUL 7 Light Colours, [Galleri Majkens](http://gallerimajkens.se/), Stockholm
 * MAY 12 Solo, Noden, Stockholm
 * MAY 7 Quaver together with Ivo Nilsson, Fylkingen, Stockholm
 * MAR 8 Solo, Länsmuseet Murberget, Härnösand

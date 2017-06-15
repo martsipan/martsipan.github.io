@@ -7,7 +7,7 @@ title: Shows
 
 * JUN 28 Solo, Rotor, Berlin
 * JUN 23 Solo, [Acting in Concert Festival](http://www.actinginconcert.org/), Witten
-* JUN 8 - JUL 7 Light Colours, [Galleri Majkens](http://gallerimajkens.se/), Stockholm
+* JUN 8 - JUL 7 Light Colours, [Galleri Majkens](http://gallerimajkens.se/home/marta%20forsberg.html), Stockholm
 * MAY 12 Solo, Noden, Stockholm
 * MAY 7 Quaver together with Ivo Nilsson, Fylkingen, Stockholm
 * MAR 8 Solo, Länsmuseet Murberget, Härnösand

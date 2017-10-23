@@ -5,6 +5,7 @@ title: Shows
 
 # SELECTED PERFORMANCES 2017
 
+* NOV 25 Solo, [3hd Festival](http://3hd-festival.com/), Berlin
 * SEP 28 Weave and Dream, [Unconscious Archives Festival](https://ua2017.unconscious-archives.org/), London
 * JUN 28 Solo, [Rotor #2](https://www.facebook.com/events/945240005648819/?notif_t=plan_admin_added&notif_id=1497867192587931), Berlin
 * JUN 23 Solo, [Acting in Concert Festival](http://www.actinginconcert.org/), Witten

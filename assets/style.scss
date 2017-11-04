@@ -315,16 +315,16 @@ body.home {
 .media-item {
   @include box();
 
-  width: 45%;
+  width: 40%;
 
-  margin-bottom: 1em;
-
-  float: left;
+  margin-bottom: 2em;
 
   display: inline-block;
 
   padding-top: 1em;
   padding-bottom: 1em;
+
+  vertical-align: top;
 }
 
 .media-item:nth-child(2n) {

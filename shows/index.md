@@ -5,6 +5,7 @@ title: Shows
 
 # SELECTED PERFORMANCES 2017
 
+* DEC 12 To All Frequencies I Can Not Sense for Quartet (release concert), [Fylkingen](http://fylkingen.se/node/2366), Stockholm
 * DEC 8 - 31 Light Colours, [Galleri Rum/Klang](https://www.facebook.com/rumkl/), Jyderup
 * NOV 25 Solo, [3hd Festival](http://3hd-festival.com/), Berlin
 * SEP 28 Weave and Dream, [Unconscious Archives Festival](https://ua2017.unconscious-archives.org/), London

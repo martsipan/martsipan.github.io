@@ -2,7 +2,6 @@
 layout: default
 title: Shows
 ---
-
 # SELECTED PERFORMANCES 2018
 
 * FEB 23rd Solo, [Post-Paradise Series](http://www.postparadise.ricercata.org/About.html), Birmingham

@@ -5,6 +5,7 @@ title: Shows
 
 # SELECTED PERFORMANCES 2018
 
+* MAR - APR Residency at [Nida Art Colony](http://nidacolony.lt/), Lithuania
 * FEB 23rd Solo, [Post-Paradise Series](http://www.postparadise.ricercata.org/About.html), Birmingham
 
 # SELECTED PERFORMANCES 2017

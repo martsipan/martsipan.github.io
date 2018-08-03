@@ -5,6 +5,7 @@ title: Shows
 
 # SELECTED PERFORMANCES 2018
 
+* AUG 11 New Love Music, [Ställbergs gruva](http://www.stallbergsgruva.se/2018/07/30/9-10-118-att-ater-ta-det-levande-ii/), Ställberg
 * MAY 26 New Love Music, [DOP1](https://dop1.confetti.events/), Uppsala 
 * MAY 18 Solo, [PLX@Hosoi](https://www.facebook.com/events/429614364167726/), Stockholm
 * MAR - APR Residency at [Nida Art Colony](http://nidacolony.lt/), Lithuania

@@ -10,6 +10,7 @@ title: Shows
 * AUG 11 New Love Music, [Ställbergs gruva](http://www.stallbergsgruva.se/2018/07/30/9-10-118-att-ater-ta-det-levande-ii/), Ställberg
 * MAY 26 New Love Music, [DOP1](https://dop1.confetti.events/), Uppsala 
 * MAY 18 Solo, [PLX@Hosoi](https://www.facebook.com/events/429614364167726/), Stockholm
+* APR 5 - MAY 17 Chmury / Clouds / Moln (premiere) [Ljudbänken c/o Tensta](http://www.audiorama.se/events/2018/ljudbanken-marta-forsberg), Stockholm
 * MAR - APR Residency at [Nida Art Colony](http://nidacolony.lt/), Lithuania
 * FEB 23rd Solo, [Post-Paradise Series](http://www.postparadise.ricercata.org/About.html), Birmingham
 

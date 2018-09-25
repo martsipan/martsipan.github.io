@@ -5,6 +5,7 @@ title: Shows
 
 # SELECTED PERFORMANCES 2018
 
+* NOV 23 New Love Music, [SuperDeluxe Edition](http://www.edition-festival.com/), Tokyo
 * OCT 13 New Love Music, [ETER LABS](https://www.facebook.com/events/313180089261164/?active_tab=about), Malmö
 * AUG 11 New Love Music, [Ställbergs gruva](http://www.stallbergsgruva.se/2018/07/30/9-10-118-att-ater-ta-det-levande-ii/), Ställberg
 * MAY 26 New Love Music, [DOP1](https://dop1.confetti.events/), Uppsala 

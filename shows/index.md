@@ -9,13 +9,13 @@ title: Shows
 
 # SELECTED PERFORMANCES 2018
 
-* NOV 29 To All Frequencies I Can not Sense for Gahlmm, FST 100 år, Kungl. Musikaliska Högskolan, Stockholm
+* NOV 29 To All Frequencies I Can Not Sense for Gahlmm, FST 100 år, Kungl. Musikaliska Högskolan, Stockholm
 * NOV 23 New Love Music, [SuperDeluxe Edition](http://www.edition-festival.com/), Tokyo
-* NOV 15 To All Frequencies I Can not Sense for Gahlmm, Västerås konstmuseum, Västerås
-* NOV 13 To All Frequencies I Can not Sense for Gahlmm, S:t Matteus kyrka, Malmö
-* NOV 11 To All Frequencies I Can not Sense for Gahlmm, Växjö Kulturskola, Växjö
-* NOV 7 To All Frequencies I Can not Sense for Gahlmm, Kulturens hus, Luleå
-* NOV 5 To All Frequencies I Can not Sense for Gahlmm, Härnösands Folkhögskola, Härnösand
+* NOV 15 To All Frequencies I Can Not Sense for Gahlmm, Västerås konstmuseum, Västerås
+* NOV 13 To All Frequencies I Can Not Sense for Gahlmm, S:t Matteus kyrka, Malmö
+* NOV 11 To All Frequencies I Can Not Sense for Gahlmm, Växjö Kulturskola, Växjö
+* NOV 7 To All Frequencies I Can Not Sense for Gahlmm, Kulturens hus, Luleå
+* NOV 5 To All Frequencies I Can Not Sense for Gahlmm, Härnösands Folkhögskola, Härnösand
 * OCT 13 New Love Music, [ETER LABS](https://www.facebook.com/events/313180089261164/?active_tab=about), Malmö
 * AUG 11 New Love Music, [Ställbergs gruva](http://www.stallbergsgruva.se/2018/07/30/9-10-118-att-ater-ta-det-levande-ii/), Ställberg
 * MAY 26 New Love Music, [DOP1](https://dop1.confetti.events/), Uppsala 

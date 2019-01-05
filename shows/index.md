@@ -6,6 +6,7 @@ title: Shows
 # SELECTED PERFORMANCES 2019
 
 * FEB 23 New Love Music, [Lumen Project Stockholm](https://ericericsonhallen.se/event/lumen-project-stockholm/), Eric Ericsonhallen, Stockholm
+* JAN 6 Gentle Acts (premiere) performed by [Passepartout Duo](https://passepartoutduo.com/), [Concert with the Amici della Musica di Modena](http://www.amicidellamusicamodena.it/event/duo-passepartout/), Modena
 
 # SELECTED PERFORMANCES 2018
 

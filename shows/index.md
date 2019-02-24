@@ -5,6 +5,13 @@ title: Shows
 
 # SELECTED PERFORMANCES 2019
 
+* APR 23 Gentle Acts performed by [Passepartout Duo](https://passepartoutduo.com/), Silpakorn University, Bangkok
+* APR 18 Gentle Acts performed by [Passepartout Duo](https://passepartoutduo.com/), SOTA - School of the Arts, Singapore
+* APR 17 Gentle Acts performed by [Passepartout Duo](https://passepartoutduo.com/), Universiti Putra Malaysia, Kuala Lumpur
+* APR 14 Gentle Acts performed by [Passepartout Duo](https://passepartoutduo.com/), [Sounding Now Festival](https://soundingnow.blog/), Singapore
+* APR 11 Gentle Acts performed by [Passepartout Duo](https://passepartoutduo.com/), Chinese University of Hong Kong Concert Series, Hong Kong
+* MAR 31 Gentle Acts performed by [Passepartout Duo](https://passepartoutduo.com/), Milan
+* FEB 27 Gentle Acts performed by [Passepartout Duo](https://passepartoutduo.com/), Arts & Eats, Key West
 * FEB 23 New Love Music, [Lumen Project Stockholm](https://ericericsonhallen.se/event/lumen-project-stockholm/), Eric Ericsonhallen, Stockholm
 * FEB 11 Light Colours for Jyderup, [Lumen Project Stockholm](https://www.facebook.com/events/330292124244954/), Eric Ericsonhallen, Stockholm
 * JAN 6 Gentle Acts (premiere) performed by [Passepartout Duo](https://passepartoutduo.com/), [Concert with the Amici della Musica di Modena](http://www.amicidellamusicamodena.it/event/duo-passepartout/), Modena

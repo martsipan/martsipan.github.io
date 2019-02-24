@@ -44,7 +44,7 @@
 
   function createItem(elem, id, preview, html) {
     embeds[id] = html;
-    elem.style.backgroundImage = 'url(' + preview + ')';
+    elem.style.backgroundImage = 'url(' + preview.replace(/^http:\/\//i, 'https://') + ')';
   }
 
   function prepare(elem) {

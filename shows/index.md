@@ -10,7 +10,7 @@ title: Shows
 * APR 17 Gentle Acts performed by [Passepartout Duo](https://passepartoutduo.com/), Universiti Putra Malaysia, Kuala Lumpur
 * APR 14 Gentle Acts performed by [Passepartout Duo](https://passepartoutduo.com/), [Sounding Now Festival](https://soundingnow.blog/), Singapore
 * APR 11 Gentle Acts performed by [Passepartout Duo](https://passepartoutduo.com/), Chinese University of Hong Kong Concert Series, Hong Kong
-* APR 5 Performance together with Neo Hülcker, [Common Ground](https://commonground.community/wp-event/marta-forsberg-and-neo-huelcker-live/?fbclid=IwAR0CpkoATE2IWQzE0ShsVn9RC-dZChMMvqmqQmbY6276_IXl1sZV9QNcQd8), Berlin
+* APR 5 Performance together with Neo Hülcker, [Common Ground](https://commonground.community/wp-event/marta-forsberg-and-neo-huelcker-live/), Berlin
 * MAR 31 Gentle Acts performed by [Passepartout Duo](https://passepartoutduo.com/), Milan
 * FEB 27 Gentle Acts performed by [Passepartout Duo](https://passepartoutduo.com/), Arts & Eats, Key West
 * FEB 23 New Love Music, [Lumen Project Stockholm](https://ericericsonhallen.se/event/lumen-project-stockholm/), Eric Ericsonhallen, Stockholm
@@ -26,7 +26,7 @@ title: Shows
 * NOV 11 To All Frequencies I Can Not Sense for Gahlmm, Växjö Kulturskola, Växjö
 * NOV 7 To All Frequencies I Can Not Sense for Gahlmm, Kulturens hus, Luleå
 * NOV 5 To All Frequencies I Can Not Sense for Gahlmm, Härnösands Folkhögskola, Härnösand
-* OCT 13 New Love Music, [ETER LABS](https://www.facebook.com/events/313180089261164/?active_tab=about), Malmö
+* OCT 13 New Love Music, [ETER LABS](https://www.facebook.com/events/313180089261164/), Malmö
 * AUG 11 New Love Music, [Ställbergs gruva](http://www.stallbergsgruva.se/2018/07/30/9-10-118-att-ater-ta-det-levande-ii/), Ställberg
 * MAY 26 New Love Music, [DOP1](https://dop1.confetti.events/), Uppsala 
 * MAY 18 Solo, [PLX@Hosoi](https://www.facebook.com/events/429614364167726/), Stockholm
@@ -40,7 +40,7 @@ title: Shows
 * DEC 8 - 31 Light Colours, [Galleri Rum/Klang](https://www.facebook.com/rumkl/), Jyderup
 * NOV 25 Solo, [3hd Festival](http://3hd-festival.com/), Berlin
 * SEP 28 Weave and Dream, [Unconscious Archives Festival](https://ua2017.unconscious-archives.org/), London
-* JUN 28 Solo, [Rotor #2](https://www.facebook.com/events/945240005648819/?notif_t=plan_admin_added&notif_id=1497867192587931), Berlin
+* JUN 28 Solo, [Rotor #2](https://www.facebook.com/events/945240005648819/), Berlin
 * JUN 23 Solo, [Acting in Concert Festival](http://www.actinginconcert.org/), Witten
 * JUN 8 - JUL 7 Light Colours, [Galleri Majkens](http://gallerimajkens.se/home/marta%20forsberg.html), Stockholm
 * MAY 12 Solo, Noden, Stockholm

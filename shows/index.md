@@ -10,6 +10,7 @@ title: Shows
 * APR 17 Gentle Acts performed by [Passepartout Duo](https://passepartoutduo.com/), Universiti Putra Malaysia, Kuala Lumpur
 * APR 14 Gentle Acts performed by [Passepartout Duo](https://passepartoutduo.com/), [Sounding Now Festival](https://soundingnow.blog/), Singapore
 * APR 11 Gentle Acts performed by [Passepartout Duo](https://passepartoutduo.com/), Chinese University of Hong Kong Concert Series, Hong Kong
+* APR 5 Performance together with Neo Hülcker, [Common Ground](https://commonground.community/wp-event/marta-forsberg-and-neo-huelcker-live/?fbclid=IwAR0CpkoATE2IWQzE0ShsVn9RC-dZChMMvqmqQmbY6276_IXl1sZV9QNcQd8), Berlin
 * MAR 31 Gentle Acts performed by [Passepartout Duo](https://passepartoutduo.com/), Milan
 * FEB 27 Gentle Acts performed by [Passepartout Duo](https://passepartoutduo.com/), Arts & Eats, Key West
 * FEB 23 New Love Music, [Lumen Project Stockholm](https://ericericsonhallen.se/event/lumen-project-stockholm/), Eric Ericsonhallen, Stockholm

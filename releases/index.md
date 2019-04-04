@@ -2,6 +2,7 @@
 layout: default
 title: Releases
 picture: /assets/images/toallfreq.jpg
+picture: /assets/images/Sounds-from-home.png
 ---
 
 Sounds from Home (duo with [Kajsa Magnarsson](http://kajsamagnarsson.tumblr.com/))

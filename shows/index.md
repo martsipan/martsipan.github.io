@@ -5,6 +5,9 @@ title: Shows
 
 # SELECTED PERFORMANCES 2019
 
+* MAY 21 Gentle Acts performed by [Passepartout Duo](https://passepartoutduo.com/), Thrudesign, Beijing
+* MAY 18 Gentle Acts performed by [Passepartout Duo](https://passepartoutduo.com/), Li-Pi Records, Beijing
+* MAY 15 Gentle Acts performed by [Passepartout Duo](https://passepartoutduo.com/), Readway Beijing, Beijing 
 * APR 23 Gentle Acts performed by [Passepartout Duo](https://passepartoutduo.com/), Silpakorn University, Bangkok
 * APR 18 Gentle Acts performed by [Passepartout Duo](https://passepartoutduo.com/), SOTA - School of the Arts, Singapore
 * APR 17 Gentle Acts performed by [Passepartout Duo](https://passepartoutduo.com/), Universiti Putra Malaysia, Kuala Lumpur

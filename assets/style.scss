@@ -301,7 +301,7 @@ body.home {
     }
   }
 
-  @for $i from 2 through 5 {
+  @for $i from 2 through 7 {
     li:nth-child(#{$i}) a {
       color: lighten($puss, 4% * $i);
     }

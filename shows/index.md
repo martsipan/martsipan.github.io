@@ -5,6 +5,7 @@ title: Shows
 
 # SELECTED PERFORMANCES 2019
 
+* JUN 21 [HYPN](http://www.imflieger.net/hypn-2135-0441/) at [Im_flieger](http://www.imflieger.net/), Vienna
 * MAY 21 Gentle Acts performed by [Passepartout Duo](https://passepartoutduo.com/), Thrudesign, Beijing
 * MAY 18 Gentle Acts performed by [Passepartout Duo](https://passepartoutduo.com/), Li-Pi Records, Beijing
 * MAY 15 Gentle Acts performed by [Passepartout Duo](https://passepartoutduo.com/), Readway Beijing, Beijing 

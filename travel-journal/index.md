@@ -8,7 +8,7 @@ I wanted to cancel my social media accounts since a long time, for many reasons,
 In this diary I will share my current activities and work process, as well as glancing into the future. This will be followed by a recap from earlier pieces and projects. In this way I can stay connected to my previous work, and take the opportunity to reflect on past events, something that I otherwise rarely do. So thats a good combo I think! Happy reading!
 
 
-## July 15th 2019
+# July 15th 2019
 
 *NOW*
 Im siting in my studio office in Berlin. Im sharing a very beautiful room with my friend [Kaj](https://www.kajduncandavid.com/) and my partner [Andreas](https://andreasdzialocha.com/). Its extremely cosy! Looking through the window I see the Chinese wisteria (Blåregn på svenska), all green and fluffy. There are still some flowers left, but the blooming is over since some time. 

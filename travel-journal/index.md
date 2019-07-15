@@ -20,4 +20,4 @@ In January 2019 the piece [Gentle Acts](https://www.youtube.com/watch?v=5dFlrUdx
 Here is a [radio show](http://1trackpodcast.com/1-track-contemporary-classical-podcast-passepartout-duo-s7e10/) where Passepartout Duo are talking about this piece. 
 In general Im so grateful for the possibility of working together with so good people and artists, Gentle Acts is a piece and experience that still warms my heart! <3 <3 <3 
 
-![GentleActs]gentleacts.jpg
+![GentleActs] gentleacts.jpg

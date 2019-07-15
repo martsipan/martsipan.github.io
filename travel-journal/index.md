@@ -11,7 +11,7 @@ In this diary I will share my current activities and work process, as well as gl
 # July 15th 2019
 
 *NOW*
-Im siting in my studio office in Berlin. Im sharing a very beautiful room with my friend [Kaj](https://www.kajduncandavid.com/) and my partner [Andreas](https://andreasdzialocha.com/). Its extremely cosy! Looking through the window I see the Chinese wisteria (Blåregn på svenska), all green and fluffy. There are still some flowers left, but the blooming is over since some time. 
+Im siting in my studio office in Berlin. Im sharing a very beautiful room with my friend [Kaj](https://www.kajduncandavid.com/) and my partner [Andreas](https://andreasdzialocha.com/). Its extremely cosy! Looking through the window I see the [Chinese wisteria](https://en.wikipedia.org/wiki/Wisteria_sinensis) (Blåregn på svenska), all green and fluffy. There are still some flowers left, but the blooming is over since some time. 
 
 At the moment Im preparing my recording device for this weekends interviews in Copenhagen. Me and my friend and colleague Anna Jakobsson are meeting six composers and sound artists from south of Sweden and Denmark to talk about what is inspiring and moving them in their artistic practice. We will record all these meetings and this will then become a part of a sound installation that [Konstmusiksystrar](http://konstmusiksystrar.se/) will present at [VBKÖ](https://www.vbkoe.org/) - Vereinigung Bildender Künstlerinnen Österreichs (Austrian Association of Women Artists) in Vienna later this year.
 

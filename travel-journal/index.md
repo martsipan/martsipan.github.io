@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Online Journal
+title: Travel Journal
 ---
 
 I wanted to cancel my social media accounts since a long time, for many reasons, but most importantly when it comes to my work and my artistic practice. So I decided to take care and charge of my own archive and history writing, as far as thats possible. Because archiving is very important and should not be left in the hands of global corporations! (◔◡◔✿)

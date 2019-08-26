@@ -5,6 +5,7 @@ title: Shows
 
 # SELECTED PERFORMANCES 2019
 
+* SEP 13 Duo with [Stellan Veloce](http://stellanveloce.de/about/), [ITINERANT INTERLUDE #46](http://itinerantinterludes.com/itinerant_interlude_friday_september13/), Berlin
 * JUN 21 [HYPN](http://www.imflieger.net/hypn-2135-0441/) at [Im_flieger](http://www.imflieger.net/), Vienna
 * MAY 21 Gentle Acts performed by [Passepartout Duo](https://passepartoutduo.com/), Thrudesign, Beijing
 * MAY 18 Gentle Acts performed by [Passepartout Duo](https://passepartoutduo.com/), Li-Pi Records, Beijing

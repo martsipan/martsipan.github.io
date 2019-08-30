@@ -6,6 +6,8 @@ title: Shows
 # SELECTED PERFORMANCES 2019
 
 * SEP 13 Duo with [Stellan Veloce](http://stellanveloce.de/about/), [ITINERANT INTERLUDE #46](http://itinerantinterludes.com/itinerant_interlude_friday_september13/), Berlin
+* AUG 31 Gentle Acts performed by [Passepartout Duo](https://passepartoutduo.com/), [Théâtre de l'Orangerie](https://www.theatreorangerie.ch/index.php/musique/concerts/166-amami-dj-chacha-2), Geneva
+* AUG 29 Gentle Acts performed by [Passepartout Duo](https://passepartoutduo.com/), [Ondulor #50](http://ondulor.org/ondulor-50/), Geneva
 * JUN 21 [HYPN](http://www.imflieger.net/hypn-2135-0441/) at [Im_flieger](http://www.imflieger.net/), Vienna
 * MAY 21 Gentle Acts performed by [Passepartout Duo](https://passepartoutduo.com/), Thrudesign, Beijing
 * MAY 18 Gentle Acts performed by [Passepartout Duo](https://passepartoutduo.com/), Li-Pi Records, Beijing

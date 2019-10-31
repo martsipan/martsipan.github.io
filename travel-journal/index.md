@@ -7,6 +7,15 @@ I wanted to cancel my social media accounts since a long time, for many reasons,
 
 In this diary I will share my current activities and work process, as well as glancing into the future. This will be followed by a recap from earlier pieces and projects. In this way I can stay connected to my previous work, and take the opportunity to reflect on past events, something that I otherwise rarely do. So thats a good combo I think! Happy reading!
 
+## October 31st 2019
+
+*NOW*
+Berlin is cold, but not yet frosty, and tomorrow November starts. Im once again siting in my office, and its been my first week of working since I came home from Bassano del Grappa in Italy where I did a residency together with the two dancers [Sindri Runudde](https://vimeo.com/user17315986) and [Empo Enlund](https://www.empoenlund.com/). We are working on a solo performance for Sindri, that will be premiered at Skånes Dansteater in May next year. The piece is called “Paradise Bois – A Sensorial Lecture”, and it's based on a movement practice created by Sindri called Centered Adventures: *The audience is invited into a metaphorical landscape where improvisation methods based on touch and listening are combined with romantic dating scenarios. The piece is exploring touch and listening from a disabled body perspective, which Sindri researches through bringing up perspectives on sensorial hierarchies.*
+
+We spent two weeks of exciting studio work, gnocchis, Aperol Spritz, Italian mountains and bois, cappuchos, sonic intimacy and intensity, pizza, pasta and a lot of, lot of laughter. (*´∀｀*) 
+
+*THEN*
+So I would like to tell you about an on going collaboration Im doing together with sleep and dream artist [Anne Glassner](https://www.anneglassner.at/). We met the first time at a residency at wonderful [Nida Art Colony](http://nidacolony.lt/) in March 2018. Since then Ive joined Annes collective naps, which is basically an afternoon nap together with a group of people in public space. Ive been playing music, or singing, to the nap, and last time I made a 90 minutes long piece based on a lullaby that was playing for a small figure of a sleeping Anne. It was presented at [Whitedwarf Projects](https://www.facebook.com/whitedwarfprojects/) in Vienna this summer. For the future we are planning a series of sleep ins: *In our interventions and evenings we create a dreamy atmosphere, more a personal lullaby – which is simple, repetitive and peaceful. This lullaby could take us on a deep sleep while touching our subconsciousness, maybe we could wake up in another moment when the global relationship with nature might be different. We would like to explore its poetic power and use rituals for a deep sleep. We embrace place via transdisciplinary approaches and experiments that lead to creation. The evenings are process based – some might only take as long as a nap others might be over night. Some evenings will include dreamy dinners and communicative breakfasts.*
 
 # July 15th 2019
 

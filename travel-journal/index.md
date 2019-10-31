@@ -3,6 +3,8 @@ layout: default
 title: Travel Journal
 ---
 
+## Travel Journal
+
 I wanted to cancel my social media accounts since a long time, for many reasons, but most importantly when it comes to my work and my artistic practice. So I decided to take care and charge of my own archive and history writing, as far as thats possible. Because archiving is very important and should not be left in the hands of global corporations! (◔◡◔✿)
 
 In this diary I will share my current activities and work process, as well as glancing into the future. This will be followed by a recap from earlier pieces and projects. In this way I can stay connected to my previous work, and take the opportunity to reflect on past events, something that I otherwise rarely do. So thats a good combo I think! Happy reading!
@@ -18,6 +20,7 @@ We spent two weeks of exciting studio work, gnocchis, Aperol Spritz, Italian mou
 So I would like to tell you about an on going collaboration Im doing together with sleep and dream artist [Anne Glassner](https://www.anneglassner.at/). We met the first time at a residency at wonderful [Nida Art Colony](http://nidacolony.lt/) in March 2018. Since then Ive joined Annes collective naps, which is basically an afternoon nap together with a group of people in public space. Ive been playing music, or singing, to the nap, and last time I made a 90 minutes long piece based on a lullaby that was playing for a small figure of a sleeping Anne. It was presented at [Whitedwarf Projects](https://www.facebook.com/whitedwarfprojects/) in Vienna this summer. For the future we are planning a series of sleep ins: *In our interventions and evenings we create a dreamy atmosphere, more a personal lullaby – which is simple, repetitive and peaceful. This lullaby could take us on a deep sleep while touching our subconsciousness, maybe we could wake up in another moment when the global relationship with nature might be different. We would like to explore its poetic power and use rituals for a deep sleep. We embrace place via transdisciplinary approaches and experiments that lead to creation. The evenings are process based – some might only take as long as a nap others might be over night. Some evenings will include dreamy dinners and communicative breakfasts.*
 
 ![AnneGlassner](/assets/images/anneglassner.jpg)
+
 
 # July 15th 2019
 

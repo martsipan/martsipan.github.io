@@ -9,6 +9,8 @@ I wanted to cancel my social media accounts since a long time, for many reasons,
 
 In this diary I will share my current activities and work process, as well as glancing into the future. This will be followed by a recap from earlier pieces and projects. In this way I can stay connected to my previous work, and take the opportunity to reflect on past events, something that I otherwise rarely do. So thats a good combo I think! Happy reading!
 
+ ✫彡.･:*:･ﾟ’✫,’✫’ﾟ･:*:･˙
+
 ## October 31st 2019
 
 *NOW*
@@ -21,6 +23,7 @@ So I would like to tell you about an on going collaboration Im doing together wi
 
 ![AnneGlassner](/assets/images/anneglassner.jpg)
 
+ ✫彡.･:*:･ﾟ’✫,’✫’ﾟ･:*:･˙
 
 # July 15th 2019
 

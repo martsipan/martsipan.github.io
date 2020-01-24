@@ -11,6 +11,32 @@ In this diary I will share my current activities and work process, as well as gl
 
  ✫彡.･’✫,’✫’ﾟ
 
+## January 24th 2020
+
+*NOW*
+✧･ﾟHappy New Year! (ꈍ ꒳ ꈍ✿)*:･ﾟ✧*
+
+So the year starts with siting opening a new calendar, understanding and visualising all the things that are coming up now, and place them in boxes and dates. Organise so that everything has its place and time, and make sure there is a lot of air in-between, haha! ▼·ᴥ·▼
+
+I want to tell you have super mega proud I am to be mentioned in the [Nida Art Colony Log No. 9 On Lines & Rituals](http://nidacolony.lt/en/colony-log). I spent March-April 2018 at [Nida Art Colony](http://nidacolony.lt/) in Lithuania. During my first month I created an installation in which I presented a performance lecture, something I never ever done before! This was such a special projects, and such a special time - to spend two whole months in Nida, watching this silent place turn from winter to spring. This is the text from the Log: ”The Hexagon: Marta was mainly interested in the work of the other artists at the Nida Colony. Through sharing work processes, discussing art and politics and hanging out as friends, a collage-like installation began to take shape. Consisting of text, fabrics, LED-light strips, wooden sculptures, music, video and pictures, it told stories from her time in Nida, as well as historical depictions of female light house keepers, space research and conspiracy theories. In a form of a "lecture performance", using music and storytelling, she explained her work process, raising questions concerning togetherness, sisterhood, feminism, and the power of shaping the future by imagining new realities and utopias.”
+
+![nida1](/assets/images/nida1.jpg)
+
+![nida2](/assets/images/nida2.jpg)
+
+*THEN*
+Todays ”NOW” actually already touches on ”THEN”, but sometimes these things behaves like that. I want to share some Nida pictures with you, since there is no other traces of this piece anywhere else. And a picture of the dunes, of course! 
+
+![nida3](/assets/images/nida3.jpg)
+
+![nida4](/assets/images/nida4.jpg)
+
+![nida5](/assets/images/nida5.jpg)
+
+![nida6](/assets/images/nida6.jpg)
+
+ ✫彡.･’✫,’✫’ﾟ
+
 ## October 31st 2019
 
 *NOW*

@@ -6,7 +6,7 @@ picture: /assets/images/Sounds-from-home.png
 ---
 
 Sounds from Home (duo with [Kajsa Magnarsson](http://kajsamagnarsson.tumblr.com/))
-*[Holy Geometry](https://www.holygeometry.store/product/marta-forsberg-kajsa-magnarsson-mauro-hertig-sounds-from-home) 2019*
+*[Holy Geometry](https://www.holygeometry.com/product/marta-forsberg-kajsa-magnarsson-mauro-hertig-sounds-from-home) 2019*
 
 To All Frequencies I Can Not Sense for Quartet
 *[Havtorn Records](http://www.havtornrecords.com/marta-forsberg-to-all-frequencies-i-can-not-sense-for-quartet/) 03.11.2017*

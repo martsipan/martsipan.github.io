@@ -9,3 +9,5 @@ Marta Forsberg is a composer, sound artist and musician working within the field
 In 2012 Marta founded Konstmusiksystrar together with composer [Lo Kristenson](https://lokristenson.com/). A women and trans separatistic organisation working for equality in the Contemporary Music scene in Sweden. More info at [www.konstmusiksystrar.se](http://konstmusiksystrar.se/)
 
 In 2016 she finished her Bachelor in Electroacoustic Music at the Royal College of Music in Stockholm.
+
+*Photo by Tomasz Forsberg*

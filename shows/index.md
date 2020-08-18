@@ -3,6 +3,10 @@ layout: default
 title: Shows
 ---
 
+# SELECTED PERFORMANCES 2020
+
+* AUG 27 Filled With Happy Drones, together with [Stellan Veloce](http://stellanveloce.de/about/), [ACUD MACHT NEU](https://acudmachtneu.de/events/1664/filled-with-happy-drones/), Berlin
+
 # SELECTED PERFORMANCES 2019
 
 * SEP 13 Duo with [Stellan Veloce](http://stellanveloce.de/about/), [ITINERANT INTERLUDE #46](http://itinerantinterludes.com/itinerant_interlude_friday_september13/), Berlin

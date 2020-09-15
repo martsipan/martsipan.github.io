@@ -5,6 +5,9 @@ picture: /assets/images/toallfreq.jpg
 picture: /assets/images/Sounds-from-home.png
 ---
 
+New Love Music
+*[Warm Winters Ltd.](https://warmwinters.ltd/) 2020*
+
 Sounds from Home (duo with [Kajsa Magnarsson](http://kajsamagnarsson.tumblr.com/))
 *[Holy Geometry](https://www.holygeometry.com/product/marta-forsberg-kajsa-magnarsson-mauro-hertig-sounds-from-home) 2019*
 

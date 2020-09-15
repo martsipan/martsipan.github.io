@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About
-picture: /assets/images/Foto-Tomasz-Forsberg-6.jpg
+picture: /assets/images/Foto-Tomasz-Forsberg.jpg
 ---
 
 Marta Forsberg is a composer, sound artist and musician working within the field of installation art and electronic music. Dedicated to creating an immersive environment, her work explores intimacy in music and performance through minimalist sound and light sculptures - a sonic visualisation.

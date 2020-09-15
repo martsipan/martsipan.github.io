@@ -2,7 +2,7 @@
 layout: default
 title: Releases
 picture: /assets/images/toallfreq.jpg
-picture: /assets/images/Sounds-from-home.png
+picture: /assets/images/new-love-music.png
 ---
 
 New Love Music

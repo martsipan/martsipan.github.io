@@ -51,6 +51,7 @@ title: Shows
 * DEC 8 - 31 Light Colours, [Galleri Rum/Klang](https://www.facebook.com/rumkl/), Jyderup
 * NOV 25 Solo, [3hd Festival](http://3hd-festival.com/), Berlin
 * SEP 28 Weave and Dream, [Unconscious Archives Festival](https://ua2017.unconscious-archives.org/), London
+* SEP 7 Solo, [Sonic Festival](https://www.sonic-festival.net/), Copenhagen
 * JUN 28 Solo, [Rotor #2](https://www.facebook.com/events/945240005648819/), Berlin
 * JUN 23 Solo, [Acting in Concert Festival](http://www.actinginconcert.org/), Witten
 * JUN 8 - JUL 7 Light Colours, [Galleri Majkens](http://gallerimajkens.se/home/marta%20forsberg.html), Stockholm

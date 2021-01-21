@@ -19,18 +19,18 @@ A year has passed since I wrote last time. Here's a short recap of what has happ
 1. New Love Music
 I released a cassette on [Warm Winters Ltd.](https://warmwinters.ltd/) Its a piece called *New Love Music* that I composed for a performance at 3hd Festival in Berlin in 2017. Ive always wanted to release this music, and Im grateful that it landed on Adam Badí Donoval's Warm Winters. Its been super much fun working together, Im very proud and excited that this music is out. You will find a link to it under RELEASES.
 2. Filled with Happy Drones
-Ive played together with cellist and composer Stellan Veloce last year. With support from [inm](https://www.inm-berlin.de/en/) we created *Filled with Happy Drones*, a piece for cello, violin, synthesizer, electronics and LED lights that was performed at ACUD in Berlin in August. You can watch the whole concert under MUSIC!
+Ive played together with cellist and composer [Stellan Veloce](http://stellanveloce.de/about/) last year. With support from [inm](https://www.inm-berlin.de/en/) we created *Filled with Happy Drones*, a piece for cello, violin, synthesizer, electronics and LED lights that was performed at ACUD in Berlin in August. You can watch the whole concert under MUSIC!
 3. A Sensoral Lecture
-After working together for a more then a year, Sindri Runudde's solo piece *A Sensoral Lecture* was finally premiered at Atalante in Göteborg in October. Working with Sindri was wonderful in so many ways! <3 You can watch the whole show on [Vimeo](https://vimeo.com/467869910)
+After working together for a more then a year, [Sindri Runudde's](https://vimeo.com/user17315986) solo piece *A Sensoral Lecture* was finally premiered at Atalante in Göteborg in October. Working with Sindri was wonderful in so many ways! <3 You can watch the whole show on Vimeo, click here --> [( ˘ ³˘)♥](https://vimeo.com/467869910)
 
 ![sindri](/assets/images/sindri.jpg)
 
 *NOW*
 What comes in 2021:
 1. Tiny Chronicler
-Later this year we will finally introduce *Tiny Chronicler* to the world! It will be an instrument and an additional band member to [Passepartout Duo](https://passepartoutduo.com/). Me and [Andreas Dzialocha](https://adz.garden/) are explaining everything in this little [trailer](https://fb.watch/36K22XMhM2/)
+Later this year we will finally introduce *Tiny Chronicler* to the world! It will be an instrument and an additional band member to [Passepartout Duo](https://passepartoutduo.com/). Me and [Andreas Dzialocha](https://adz.garden/) are explaining everything in this little trailer --> [ ⍤⃝](https://fb.watch/36K22XMhM2/)
 2. Wytomyśl
-As part of the project [Girls Play in Pairs](https://girlsplayinpairs.com/) Im working with my archive of recordings of my grandfather talking about his life. My hope is that this material will transform into a sound installation and be presented in Wytomyśl, the village where my grandfather was born. It will take place in the fruit garden that belongs to the house that my great great grandfather Roman Sokołowski built in 1894. 
+As part of the project [Girls Play in Pairs](https://girlsplayinpairs.com/) Im working with an archive of recordings of my grandfather telling stories from his life. My hope is that this material will transform into a sound installation and be presented in Wytomyśl, the village where my grandfather was born. It will take place in the fruit garden that belongs to the house that my great great grandfather Roman Sokołowski built in 1894. 
 3. Upcoming releases
 Ive just released *Pieces from Anne's Lullaby* on the Italian label [SUPERPANG](https://superpang.bandcamp.com/). In March comes my first LP *TKAĆ* on Swedish [Thantosis](https://thanatosis.org/). Very exciting! I love releasing music! <3
 

@@ -28,7 +28,7 @@ After working together for a more then a year, [Sindri Runudde's](https://vimeo.
 *NOW*
 What comes in 2021:
 1. Tiny Chronicler
-Later this year we will finally introduce *Tiny Chronicler* to the world! It will be an instrument and an additional band member to [Passepartout Duo](https://passepartoutduo.com/). Me and [Andreas Dzialocha](https://adz.garden/) are explaining everything in this little trailer --> [ ⍤⃝](https://fb.watch/36K22XMhM2/)
+Later this year we will finally introduce *Tiny Chronicler* to the world! It will be an instrument and an additional band member to [Passepartout Duo](https://passepartoutduo.com/). Me and [Andreas Dzialocha](https://adz.garden/) are explaining everything in this little trailer -->   [ ⍤⃝](https://fb.watch/36K22XMhM2/)
 2. Wytomyśl
 As part of the project [Girls Play in Pairs](https://girlsplayinpairs.com/) Im working with an archive of recordings of my grandfather telling stories from his life. My hope is that this material will transform into a sound installation and be presented in Wytomyśl, the village where my grandfather was born. It will take place in the fruit garden that belongs to the house that my great great grandfather Roman Sokołowski built in 1894. 
 3. Upcoming releases

@@ -11,7 +11,7 @@ In this diary I will share my current activities and work process, as well as gl
 
  ✫彡.･’✫,’✫’ﾟ
 
-## January 21st 2020
+## January 21st 2021
 
 *THEN*
 A year has passed since I wrote last time. Here's a short recap of what has happened since then:

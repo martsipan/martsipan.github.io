@@ -3,8 +3,23 @@ layout: default
 title: Shows
 ---
 
+# SELECTED PERFORMANCES 2022
+
+
+* JAN 15 Solo at [Power Loom](https://www.km28.de/series), KM28, Berlin
+
+# SELECTED PERFORMANCES 2021
+
+* DEC 17, Solo at [Thanatosis festival](https://thanatosis.org/), Fylkingen, Stockholm
+* DEC 16, Maggie Nicols’ Creative Liberation Orchestra, Fylkingen, Stockholm
+* NOV 25-27, Music for dance performance [Hard Waves](https://dansenshus.se/program/hard-waves/), Dansens Hus, Stockholm
+* NOV 23 Publication release of [Girls Play in Pairs](https://girlsplayinpairs.com/), Bio Aspen, Stockholm
+* OCT 1 Solo, [Digital in Berlin](https://www.digitalinberlin.de/hydroacoustics/), Berlin
+* SEP 25-26 Music for "Dawn: A musical on reproduction" together with [Stellan Veloce](http://stellanveloce.de/about/), [Ufer Studios](https://coming-of-age.sophiensaele.com/en/produktionen/dawn-a-musical-on-reproduction/), Berlin
+
 # SELECTED PERFORMANCES 2020
 
+* OCT 8-9, Music for dance performance "A Sensoral Lecture" by Sindri Runudde, [Atalante](http://atalante.org/arkiv/asensoral-ark/), Göteborg
 * AUG 27 Filled With Happy Drones, together with [Stellan Veloce](http://stellanveloce.de/about/), [ACUD MACHT NEU](https://acudmachtneu.de/events/1664/filled-with-happy-drones/), Berlin
 
 # SELECTED PERFORMANCES 2019

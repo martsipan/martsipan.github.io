@@ -5,7 +5,7 @@ title: Shows
 
 # SELECTED PERFORMANCES 2022
 
-
+* MAR 16 Solo/duo with Kajsa Lindgren, [Skaiv](https://skaiv.se/), S:t Peters kyrka, Stockholm
 * JAN 15 Solo at [Power Loom](https://www.km28.de/series), KM28, Berlin
 
 # SELECTED PERFORMANCES 2021

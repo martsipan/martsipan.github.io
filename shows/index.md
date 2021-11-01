@@ -12,9 +12,9 @@ title: Shows
 
 * DEC 17, Solo at [Thanatosis festival](https://thanatosis.org/), Fylkingen, Stockholm
 * DEC 16, Maggie Nicols’ Creative Liberation Orchestra, Fylkingen, Stockholm
-* NOV 25-27, Music for dance performance [Hard Waves](https://dansenshus.se/program/hard-waves/), Dansens Hus, Stockholm
+* NOV 25-27, Music for dance performance "Hard Waves", [Dansens Hus](https://dansenshus.se/program/hard-waves/), Stockholm
 * NOV 23 Publication release of [Girls Play in Pairs](https://girlsplayinpairs.com/), Bio Aspen, Stockholm
-* OCT 1 Solo, [Digital in Berlin](https://www.digitalinberlin.de/hydroacoustics/), Berlin
+* OCT 1 Solo at Kleiner Wasserspeicher, [Digital in Berlin](https://www.digitalinberlin.de/hydroacoustics/), Berlin
 * SEP 25-26 Music for "Dawn: A musical on reproduction" together with [Stellan Veloce](http://stellanveloce.de/about/), [Ufer Studios](https://coming-of-age.sophiensaele.com/en/produktionen/dawn-a-musical-on-reproduction/), Berlin
 
 # SELECTED PERFORMANCES 2020

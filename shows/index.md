@@ -15,7 +15,7 @@ title: Shows
 * NOV 25-27, Music for dance performance "Hard Waves", [Dansens Hus](https://dansenshus.se/program/hard-waves/), Stockholm
 * NOV 23 Publication release of [Girls Play in Pairs](https://girlsplayinpairs.com/), Bio Aspen, Stockholm
 * OCT 1 Solo at Kleiner Wasserspeicher, [Digital in Berlin](https://www.digitalinberlin.de/hydroacoustics/), Berlin
-* SEP 25-26 Music for "Dawn: A musical on reproduction" together with [Stellan Veloce](http://stellanveloce.de/about/), [Ufer Studios](https://coming-of-age.sophiensaele.com/en/produktionen/dawn-a-musical-on-reproduction/), Berlin
+* SEP 25-26 Music for "Dawn: A musical on reproduction" together with [Stellan Veloce](http://stellanveloce.de/about/), [Ufer Studios](https://www.tanzforumberlin.de/en/production/dawn-a-musical-on-reproduction/), Berlin
 
 # SELECTED PERFORMANCES 2020
 

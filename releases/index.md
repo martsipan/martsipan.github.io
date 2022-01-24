@@ -5,7 +5,7 @@ picture: /assets/images/LCIJ-cassette.jpg
 ---
 
 [Light Colours in Jyderup](https://martaforsberg.bandcamp.com/album/light-colours-in-jyderup)
-*[Warm Winters Ldt.](https://warmwinters.ltd/) 17.12.2021*
+*[Warm Winters Ldt.](https://warmwintersltd.bandcamp.com/) 17.12.2021*
 
 [TKAĆ](https://martaforsberg.bandcamp.com/album/tka)
 *[thanatosis](https://thanatosis.org/) 26.03.2021*
@@ -14,7 +14,7 @@ picture: /assets/images/LCIJ-cassette.jpg
 *[SUPERPANG](https://superpang.bandcamp.com/) 14.01.2021*
 
 [New Love Music](https://martaforsberg.bandcamp.com/album/new-love-music)
-*[Warm Winters Ltd.](https://warmwinters.ltd/) 16.10.2020*
+*[Warm Winters Ltd.](https://warmwintersltd.bandcamp.com/) 16.10.2020*
 
 [Sounds from Home](https://holygeometrytapes.bandcamp.com/album/sounds-from-home) (duo with [Kajsa Magnarsson](http://kajsamagnarsson.tumblr.com/))
 *[Holy Geometry](https://www.holygeometry.com/product/marta-forsberg-kajsa-magnarsson-mauro-hertig-sounds-from-home) 2019*

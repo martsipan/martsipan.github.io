@@ -5,9 +5,7 @@ title: Travel Journal
 
 ## Travel Journal
 
-I wanted to cancel my social media accounts since a long time, for many reasons, but most importantly when it comes to my work and my artistic practice. So I decided to take care and charge of my own archive and history writing, as far as thats possible. Because archiving is very important and should not be left in the hands of global corporations! (◔◡◔✿)
-
-In this diary I will share my current activities and work process, as well as glancing into the future. This will be followed by a recap from earlier pieces and projects. In this way I can stay connected to my previous work, and take the opportunity to reflect on past events, something that I otherwise rarely do. So thats a good combo I think! Happy reading!
+In this diary I will share my current activities and work process, as well as glancing into the future. This will be followed by a recap from earlier pieces and projects. In this way I can stay connected to my previous work, and take the opportunity to reflect on past events, something that I otherwise rarely do. So thats a good combo I think! Happy reading! (◔◡◔✿)
 
  ✫彡.･’✫,’✫’ﾟ
 

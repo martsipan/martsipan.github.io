@@ -1,4 +1,4 @@
 ---
-layout: media
+layout: collaborations
 title: Collaborations
 ---

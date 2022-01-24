@@ -1,9 +1,11 @@
 ---
 layout: default
 title: Releases
-picture: /assets/images/toallfreq.jpg
-picture: /assets/images/new-love-music.png
+picture: /assets/images/LCIJ-cassette.jpg
 ---
+
+[Light Colours in Jyderup](https://martaforsberg.bandcamp.com/album/light-colours-in-jyderup)
+*[Warm Winters Ldt.](https://warmwinters.ltd/) 17.12.2021*
 
 [TKAĆ](https://martaforsberg.bandcamp.com/album/tka)
 *[thanatosis](https://thanatosis.org/) 26.03.2021*

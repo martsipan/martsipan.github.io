@@ -27,3 +27,6 @@ picture: /assets/images/LCIJ-cassette.jpg
 
 [Hästköttskandalen - Space Girls](https://fylkingen.bandcamp.com/album/spacegirls)
 *[FyRec](https://www.fylkingen.se/fyrec) 2015*
+
+[Kyrkan - HQ Tape Series Vol. 9](https://open.spotify.com/album/0NBZcazLlulB2T0ewNYRUe?si=Zr-F04pCSQGnnS6N0VjaYQ)
+*[Ominous Recordings](https://ominousrecordings.wordpress.com/) 2012*

@@ -1,0 +1,17 @@
+{% include header.html %}
+<div class="media-player" id="media-player">
+  <div class="media-close" id="media-close"></div>
+  <div class="media-content" id="media-content"></div>
+</div>
+<div class="media">
+{% for collaboration in site.data.collaborations %}
+  <div class="media-item">
+    <h2>{{ collaboration.title }}</h2>
+    {% if collaboration.description %}
+    <p>{{ collaboration.description }}<p>
+    {% endif %}
+    <div class="media-preview" data-url="{{ collaboration.url }}"></div>
+  </div>
+{% endfor %}
+</div>
+{% include footer.html %}

@@ -1,16 +1,22 @@
 {% include header.html %}
-<div class="media-player" id="media-player">
-  <div class="media-close" id="media-close"></div>
-  <div class="media-content" id="media-content"></div>
-</div>
+{% include media-player.html %}
 <div class="media">
 {% for collaboration in site.data.collaborations %}
-  <div class="media-item">
+  <div class="media-item media-item--full">
     <h2>{{ collaboration.title }}</h2>
     {% if collaboration.description %}
-    <p>{{ collaboration.description }}<p>
+      <p>{{ collaboration.description }}<p>
     {% endif %}
-    <div class="media-preview" data-url="{{ collaboration.url }}"></div>
+    {% if collaboration.url %}
+      <div class="media-preview media-preview--larger" data-url="{{ collaboration.url }}"></div>
+    {% endif %}
+    {% if collaboration.picture %}
+      <div class="media-picture media-preview--larger" style="background-image: url({{ collaboration.picture }})">
+        {% if collaboration.picture_url %}
+          <a class="media-picture-link" target="_blank" href="{{ collaboration.picture_url }}"></a>
+        {% endif %}
+      </div>
+    {% endif %}
   </div>
 {% endfor %}
 </div>

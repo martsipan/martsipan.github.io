@@ -325,8 +325,16 @@ body.home {
   vertical-align: top;
 }
 
+.media-item--full {
+  width: 100%;
+}
+
 .media-item:nth-child(2n) {
   margin-left: 10%;
+}
+
+.media-item--full:nth-child(2n) {
+  margin-left: 0;
 }
 
 .media-preview {
@@ -356,6 +364,10 @@ body.home {
   &:hover {
     opacity: .5;
   }
+}
+
+.media-preview--larger {
+  height: 200px;
 }
 
 @media (max-width: $mobile-breakpoint) {
@@ -398,6 +410,8 @@ body.home {
   vertical-align: middle;
 
   iframe {
+    width: 100%;
+    height: 500px;
     max-width: 900px;
     margin: 0 auto;
   }
@@ -427,6 +441,24 @@ body.home {
 
   &:hover {
     color: $puss;
+  }
+}
+
+.media-picture {
+  @extend .media-preview;
+
+  &::after {
+    display: none;
+  }
+}
+
+.media-picture-link {
+  display: table-cell;
+  height: 100%;
+
+  &:hover {
+    background-color: transparent;
+    animation-name: none;
   }
 }
 

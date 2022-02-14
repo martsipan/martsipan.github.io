@@ -1,8 +1,11 @@
 ---
 layout: default
 title: Releases
-picture: /assets/images/LCIJ-cassette.jpg
+picture: /assets/images/kompisitioner-cover.jpg
 ---
+
+[Kompisitioner](https://lamourrecords.bandcamp.com/album/kompisitioner)
+*[Lamour Records](https://www.lamour.se/) 25.02.2022*
 
 [Light Colours in Jyderup](https://martaforsberg.bandcamp.com/album/light-colours-in-jyderup)
 *[Warm Winters Ldt.](https://warmwintersltd.bandcamp.com/) 17.12.2021*

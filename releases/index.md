@@ -4,7 +4,7 @@ title: Releases
 picture: /assets/images/kompisitioner-cover.jpg
 ---
 
-[Kompisitioner](https://lamourrecords.bandcamp.com/album/kompisitioner)
+[Kompisitioner](https://lamourrecords.bandcamp.com/album/kompisitioner) (duo with [Kajsa Magnarsson](http://kajsamagnarsson.tumblr.com/))
 *[Lamour Records](https://www.lamour.se/) 25.02.2022*
 
 [Light Colours in Jyderup](https://martaforsberg.bandcamp.com/album/light-colours-in-jyderup)

@@ -5,6 +5,7 @@ title: Shows
 
 # SELECTED PERFORMANCES 2022
 
+* SEP 3 Solo at [Sacrum Profanum](https://sacrumprofanum.com/programme/changing-activities-1), Karków
 * SEP 2 Solo at [UP TO DATE FESTIVAL](https://uptodate.pl/), Białystok
 * JUL 23 Kajsa Magnarsson & Marta Forsberg at [PUSH FESTIVAL](http://www.pushfestival.se/push-i-parken/), Gävle
 * JUN 4 Solo at [Current - post meridian Ambient](https://www.10000volt.de/2022/06/04/current-w-ylia-and-marta-forsberg/), TRAFO, Jena

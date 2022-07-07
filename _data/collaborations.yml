@@ -1,13 +1,3 @@
-- title: Collective Naps
-  description: In 2018 I met Alicja Bilewska, Lynette Smith, Veronika Burger, Anne Glassner and Katherine Behar during a residency at Nida Art Colony in Lithuania. Since then we keep meeting for collective naps online, naping together in three different time zones. We also keep participating in eachothers projects, like "How do we go on?" from 2020 by Lynette Smith.
-  picture_url: http://www.lynettesmith.com.au/how-do-we-go-on/
-  picture: /assets/images/collective-naps.jpg
-
-- title: Anne Glassner (ongoing)
-  description: I met Anne at Nida Art Colony, Lithuania, in 2018 where we were both on a one month long residency. Since then I've composed music for two of Anne's installations, the first one "Pure" from 2019 at "White Dwarf Projects" in Vienna, and the second one "Pillow Paradise" from 2022 at "Flora Pontemporay" in Vienna.
-  picture_url: https://anneglassner.at/works/pure
-  picture: /assets/images/anna-glassner-pillow-paradise.jpg
-
 - title: Kajsa Magnarsson & Marta Forsberg (ongoing)
   description: Together with Kajsa Magnarsson we released "Kompisitioner" on Swedish label Lamour Records in 2022. With support from Helge Ax:son Johnsons Stiftelse will we during 2022-2023 further develop methods for long distance compositions, this time focusing on the art of handwritten letters.  
   picture_url: https://lamourrecords.bandcamp.com/album/kompisitioner
@@ -31,6 +21,16 @@
   description: Collaboration with fashion designer and costume maker Bettina Mileta, in Berlin 2020.
   picture_url: https://www.bettinamileta.com/marta
   picture: /assets/images/Nina-Wesemann-Bettie.jpeg
+
+  - title: Collective Naps
+  description: In 2018 I met Alicja Bilewska, Lynette Smith, Veronika Burger, Anne Glassner and Katherine Behar during a residency at Nida Art Colony in Lithuania. Since then we keep meeting for collective naps online, naping together in three different time zones. We also keep participating in eachothers projects, like "How do we go on?" from 2020 by Lynette Smith.
+  picture_url: http://www.lynettesmith.com.au/how-do-we-go-on/
+  picture: /assets/images/collective-naps.jpg
+
+- title: Anne Glassner (ongoing)
+  description: I met Anne at Nida Art Colony, Lithuania, in 2018 where we were both on a one month long residency. Since then I've composed music for two of Anne's installations, the first one "Pure" from 2019 at "White Dwarf Projects" in Vienna, and the second one "Pillow Paradise" from 2022 at "Flora Pontemporay" in Vienna.
+  picture_url: https://anneglassner.at/works/pure
+  picture: /assets/images/anna-glassner-pillow-paradise.jpg
 
 - title: Filled with Happy Drones (2020)
   description: Duo together with Stellan Veloce.

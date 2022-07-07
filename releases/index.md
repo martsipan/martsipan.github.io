@@ -4,6 +4,9 @@ title: Releases
 picture: /assets/images/kompisitioner-cover.jpg
 ---
 
+[XKatedral Anthology Series I](https://xkatedral.bandcamp.com/album/xkatedral-anthology-series-i)
+*[XKatedral](https://xkatedral.se/) 08.04.2022*
+
 [Kompisitioner](https://lamourrecords.bandcamp.com/album/kompisitioner) (duo with [Kajsa Magnarsson](http://kajsamagnarsson.tumblr.com/))
 *[Lamour Records](https://www.lamour.se/) 25.02.2022*
 

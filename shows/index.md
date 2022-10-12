@@ -7,6 +7,7 @@ title: Shows
 
 * OCT 14 Solo at [Labor Neunzehn](https://www.laborneunzehn.org/cluster-21-double-bill-concert-w-massobriokoolebesegher-and-marta-forsberg/), KM28, Berlin
 * OCT 1 Duo together with [Ellen Arkbro](https://www.ellenarkbro.com/) at [Trafo](https://www.10000volt.de/), Jena
+* SEP 23-24 Music for "Dawn: A musical on reproduction" together with [Stellan Veloce](http://stellanveloce.de/about/), [Sophiensaele](https://sophiensaele.com/de/archiv/stueck/sheena-mcgrandles-dawn-a-musical-on-reproduction-1), Berlin
 * SEP 3 Solo at [Sacrum Profanum](https://sacrumprofanum.com/programme/changing-activities-1), Karków
 * SEP 2 Solo at [UP TO DATE FESTIVAL](https://uptodate.pl/), Białystok
 * JUL 23 Kajsa Magnarsson & Marta Forsberg at [PUSH FESTIVAL](http://www.pushfestival.se/push-i-parken/), Gävle

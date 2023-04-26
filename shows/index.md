@@ -3,6 +3,12 @@ layout: default
 title: Shows
 ---
 
+# SELECTED PERFORMANCES 2023
+
+* APR 23 Solo as part of Erik Lindman Mata's book release [Svenska äpplen & äventyr](https://nirstedt.se/svenska-applen-och-aventyr/), [Hägerstensåsens Medborgarhus](https://www.medborgarhuset.se/), Stockholm
+* FEB 24 Kajsa Magnarsson & Marta Forsberg at [Fylkingen](http://www.fylkingen.se/node/3053), Stockholm
+* FEB 3-5 Zur Zartheit von Rissen at [Uferstudios](https://www.uferstudios.com/en/dance/events/465df63b-309b-4170-a09f-de8a38df155e/), Berlin
+
 # SELECTED PERFORMANCES 2022
 
 * OCT 14 Solo at [Labor Neunzehn](https://www.laborneunzehn.org/cluster-21-double-bill-concert-w-massobriokoolebesegher-and-marta-forsberg/), KM28, Berlin

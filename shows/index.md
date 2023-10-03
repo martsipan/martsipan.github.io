@@ -5,6 +5,7 @@ title: Shows
 
 # SELECTED PERFORMANCES 2023
 
+* OCT 11 Solo at [KM28](https://www.km28.de/), Berlin
 * JUL 13 Lecture-perfomance "Digitale Ausgrabung" at [Amerika-Gedenkbibliothek](https://www.zlb.de/veranstaltungsuebersicht/digitale-ausgrabung/), Berlin
 * APR 23 Solo as part of Erik Lindman Mata's book release [Svenska äpplen & äventyr](https://nirstedt.se/svenska-applen-och-aventyr/), [Hägerstensåsens Medborgarhus](https://www.medborgarhuset.se/), Stockholm
 * FEB 24 Kajsa Magnarsson & Marta Forsberg at [Fylkingen](http://www.fylkingen.se/node/3053), Stockholm

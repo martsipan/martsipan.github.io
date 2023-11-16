@@ -5,6 +5,7 @@ title: Shows
 
 # SELECTED PERFORMANCES 2023
 
+* NOV 15 Sjunger för varandra (premiere) at [Nymus 40 Years Jubilee](https://nymus.se/), Härnösand
 * OCT 11 Solo at [KM28](https://www.km28.de/), Berlin
 * JUL 13 Lecture-perfomance "Digitale Ausgrabung" at [Amerika-Gedenkbibliothek](https://www.zlb.de/veranstaltungsuebersicht/digitale-ausgrabung/), Berlin
 * APR 23 Solo as part of Erik Lindman Mata's book release [Svenska äpplen & äventyr](https://nirstedt.se/svenska-applen-och-aventyr/), [Hägerstensåsens Medborgarhus](https://www.medborgarhuset.se/), Stockholm

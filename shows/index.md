@@ -3,6 +3,11 @@ layout: default
 title: Shows
 ---
 
+# SELECTED PERFORMANCES 2024
+
+* APR 13 If I Ever Become a Grandmother (premiere) together with [Alicja Pilarczyk](https://www.alicjapilarczyk.com/) at [Archipel Festival](https://2023.archipel.org/en), Geneva
+* MAR 16 Solo at [Media Artes](http://www.mediaartes.net/kalender/event.php?id=268), Växjö
+
 # SELECTED PERFORMANCES 2023
 
 * NOV 15 Sjunger för varandra (premiere) at [Nymus 40 Years Jubilee](https://nymus.se/), Härnösand

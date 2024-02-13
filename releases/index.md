@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Releases
-picture: /assets/images/kompisitioner-cover.jpg
+picture: /assets/images/cover-sjunger-for-varandra-mio-ebisu.jpg
 ---
 
 [Sjunger För Varandra](https://martaforsberg.bandcamp.com/album/sjunger-fo-r-varandra)

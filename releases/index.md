@@ -4,6 +4,9 @@ title: Releases
 picture: /assets/images/kompisitioner-cover.jpg
 ---
 
+[Sjunger För Varandra](https://martaforsberg.bandcamp.com/album/sjunger-fo-r-varandra)
+*[Warm Winters Ltd.](https://warmwintersltd.bandcamp.com/) 08.03.2024*
+
 [XKatedral Anthology Series I](https://xkatedral.bandcamp.com/album/xkatedral-anthology-series-i)
 *[XKatedral](https://xkatedral.se/) 08.04.2022*
 

@@ -5,6 +5,7 @@ title: Shows
 
 # SELECTED PERFORMANCES 2024
 
+* JUL 4-6 Solo at [Norbergfestival](https://norbergfestival.com/artist/marta-forsberg), Norberg
 * APR 13 If I Ever Become a Grandmother (premiere) together with [Alicja Pilarczyk](https://www.alicjapilarczyk.com/) at [Archipel Festival](https://2023.archipel.org/en), Geneva
 * MAR 16 Solo at [Media Artes](http://www.mediaartes.net/kalender/event.php?id=268), Växjö
 

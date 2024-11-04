@@ -5,6 +5,7 @@ title: Shows
 
 # SELECTED PERFORMANCES 2024
 
+* NIV 14 Solo at [T3](https://t3.sk/), Bratislava
 * AUG 5 Duo with dancer Ella Olivia Bender at [Stadtgarten](https://www.stadtgarten.de/programm/nica-live-sophie-emilie-beha-presents-ludwig-wittbrodt-marta-forsberg-ella-olivia-bender-7578), Köln
 * JUL 6 Duo with dancer Sindri Runudde at [Norbergfestival](https://norbergfestival.com/artist/marta-forsberg), Norberg
 * APR 13 If I Ever Become a Grandmother (premiere) together with [Alicja Pilarczyk](https://www.alicjapilarczyk.com/) at [Archipel Festival](https://2023.archipel.org/en), Geneva

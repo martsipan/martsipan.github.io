@@ -9,7 +9,7 @@ title: Shows
 
 # SELECTED PERFORMANCES 2024
 
-* DEC 15 Solo at [Punctu](https://www.punctum.cz/event/jules-reidy-marta-forsberg-sumarobelisk-sonitus), Prague
+* DEC 15 Solo at [Punctum](https://www.punctum.cz/event/jules-reidy-marta-forsberg-sumarobelisk-sonitus), Prague
 * NOV 14 Solo at [T3](https://t3.sk/), Bratislava
 * AUG 5 Duo with dancer Ella Olivia Bender at [Stadtgarten](https://www.stadtgarten.de/programm/nica-live-sophie-emilie-beha-presents-ludwig-wittbrodt-marta-forsberg-ella-olivia-bender-7578), Köln
 * JUL 6 Duo with dancer Sindri Runudde at [Norbergfestival](https://norbergfestival.com/artist/marta-forsberg), Norberg

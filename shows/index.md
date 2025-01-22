@@ -5,10 +5,12 @@ title: Shows
 
 # SELECTED PERFORMANCES 2025
 
+* JAN 26 w/ Adela Mede at [Silent Green](https://www.silent-green.net/en/programme/detail/2025/1/26/ctm-2025), Berlin
 * JAN 17 Solo at [Silent Green](https://www.silent-green.net/en/programme/detail/2025/1/17/warm-winters-ltd-pres-marta-forsberg-luka-aron-aleksandra-slyz), Berlin
 
 # SELECTED PERFORMANCES 2024
 
+* DEC 18 Solo at [KM28](https://www.km28.de/home), Berlin
 * DEC 15 Solo at [Punctum](https://www.punctum.cz/event/jules-reidy-marta-forsberg-sumarobelisk-sonitus), Prague
 * NOV 14 Solo at [T3](https://t3.sk/), Bratislava
 * SEP 28 Solo at [Fylkingen](https://fylkingen.se/sv/events/konstmusiksystrar-10-years#title), Stockholm

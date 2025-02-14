@@ -5,6 +5,7 @@ title: Shows
 
 # SELECTED PERFORMANCES 2025
 
+* MAR 7 Solo at [Markuskykan](https://www.svenskakyrkan.se/skarpnack/markuskyrkan), Stockholm
 * JAN 26 w/ Adela Mede at [Silent Green](https://www.silent-green.net/en/programme/detail/2025/1/26/ctm-2025), Berlin
 * JAN 17 Solo at [Silent Green](https://www.silent-green.net/en/programme/detail/2025/1/17/warm-winters-ltd-pres-marta-forsberg-luka-aron-aleksandra-slyz), Berlin
 

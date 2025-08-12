@@ -5,9 +5,10 @@ title: Shows
 
 # SELECTED PERFORMANCES 2025
 
+* JUN 7-8 Ljuet performed by [Tusen Tungor](https://tusentungor.com/) at [Värmeverket](https://tusentungor.com/midsommarnattsdr%C3%B6m-p%C3%A5-v%C3%A4rmeverket-7-86-2025), Stockholm
 * MAY 9 Duo with [Mara Mara](http://maraschwerdtfeger.com/) at [KM28](https://www.km28.de/home), Berlin
 * MAY 4 Ljuet performed by [Tusen Tungor](https://tusentungor.com/) at [Eric Ericsonhallen](https://tusentungor.com/tusen-tungor-+-dunka-dunka-i-eric-ericsonhallen-45-2025), Stockholm
-* APR 23 Solo at [Bar Neoun](https://www.barneun.de/), Berlin
+* APR 23 Solo at [Bar Neun](https://www.barneun.de/), Berlin
 * MAR 7 Solo at [Markuskykan](https://www.svenskakyrkan.se/skarpnack/markuskyrkan), Stockholm
 * JAN 26 w/ Adela Mede at [Silent Green](https://www.silent-green.net/en/programme/detail/2025/1/26/ctm-2025), Berlin
 * JAN 17 Solo at [Silent Green](https://www.silent-green.net/en/programme/detail/2025/1/17/warm-winters-ltd-pres-marta-forsberg-luka-aron-aleksandra-slyz), Berlin

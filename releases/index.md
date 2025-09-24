@@ -4,6 +4,9 @@ title: Releases
 picture: /assets/images/cover-sjunger-for-varandra-mio-ebisu.jpg
 ---
 
+[Archaeology of Intimacy](https://martaforsberg.bandcamp.com/album/archaeology-of-intimacy)
+*[Warm Winters Ltd.](https://warmwintersltd.bandcamp.com/) 03.10.2025*
+
 [Sjunger För Varandra](https://martaforsberg.bandcamp.com/album/sjunger-fo-r-varandra)
 *[Warm Winters Ltd.](https://warmwintersltd.bandcamp.com/) 08.03.2024*
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Releases
-picture: /assets/images/cover-sjunger-for-varandra-mio-ebisu.jpg
+picture: /assets/images/Archaeology of Intimacy for DIGITAL.jpg
 ---
 
 [Archaeology of Intimacy](https://martaforsberg.bandcamp.com/album/archaeology-of-intimacy)

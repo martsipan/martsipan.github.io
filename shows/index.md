@@ -5,6 +5,9 @@ title: Shows
 
 # SELECTED PERFORMANCES 2025
 
+* NOV 16 Solo at [Fundacja Palma](https://fpalma.pl/news/koncerty-w-samo-poludnie-2/), Gdańsk
+* OCT 24 Solo at [SchloRina](https://schlor.org/), Vienna
+* OCT 5 Archaeology of Intimacy w/ [Sindri Runudde](https://www.nordbergmovement.se/artists/sindri-runudde/) and [Thiago Granato](https://thiagogranato.com/) at [Rabbit/Duck](https://no-deadline.com/rabbit-duck/), Göteborg
 * JUN 7-8 Ljuset performed by [Tusen Tungor](https://tusentungor.com/) at [Värmeverket](https://tusentungor.com/midsommarnattsdr%C3%B6m-p%C3%A5-v%C3%A4rmeverket-7-86-2025), Stockholm
 * MAY 9 Duo with [Mara](http://maraschwerdtfeger.com/) at [KM28](https://www.km28.de/home), Berlin
 * MAY 4 Ljuset performed by [Tusen Tungor](https://tusentungor.com/) at [Eric Ericsonhallen](https://tusentungor.com/tusen-tungor-+-dunka-dunka-i-eric-ericsonhallen-45-2025), Stockholm

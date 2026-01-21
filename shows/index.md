@@ -3,6 +3,11 @@ layout: default
 title: Shows
 ---
 
+# SELECTED PERFORMANCES 2026
+
+* JAN 23 Solo at [Spółdzielnia Ogniwo](https://www.instagram.com/p/DTYY-rMjeny/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==), Krakow
+* JAN 24 Solo at [Klubojadalnia Młodsza Siostra](https://www.instagram.com/p/DTPqc6jjG_a/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==), Warsaw
+
 # SELECTED PERFORMANCES 2025
 
 * NOV 16 Solo at [Fundacja Palma](https://fpalma.pl/news/koncerty-w-samo-poludnie-2/), Gdańsk

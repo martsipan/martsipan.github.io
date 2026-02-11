@@ -5,6 +5,7 @@ title: Shows
 
 # SELECTED PERFORMANCES 2026
 
+* FEB 10 Solo at [Forum Stadtpark](https://forumstadtpark.at/de/programm/pink-must-konzert), Graz
 * JAN 24 Solo at [Klubojadalnia Młodsza Siostra](https://www.instagram.com/p/DTPqc6jjG_a/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==), Warsaw
 * JAN 23 Solo at [Spółdzielnia Ogniwo](https://www.instagram.com/p/DTYY-rMjeny/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==), Krakow
 

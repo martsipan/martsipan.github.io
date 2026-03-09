@@ -5,6 +5,12 @@ title: Shows
 
 # SELECTED PERFORMANCES 2026
 
+* APR 25 Mixtapes (Premiere) performed by (Karin Hellqvist)[https://karinhellqvist.com/] at [Only Connect Festival](https://nymusikk.no/arrangementer/only-connect-oslo-karin-hellqvist), Oslo
+* APR 11 Together w/ Tim Holland at [Frühlingsfest Blüten+Kelche](https://www.instagram.com/festival_bluetenundkelche/), Hannover
+* MAR 27 Solo at [PIES andaluzyjski](https://www.facebook.com/klubokawiarnia.pies/), Poznan
+* MAR 15 Solo at [Cosmos Campolide](https://www.facebook.com/cosmos.cac/), Lisbon
+* MAR 14 Solo at [Rock Da Baixamar](https://www.facebook.com/rockdabaixamar.associacao/), Tavira
+* FEB 27 Trio together w/ [Erik Dahl](https://erik-dahl.se/) and [Donovan von Martens](https://www.donovanvonmartens.com/) at [Klubb Obsidian, Scen 46](https://svalkarecords.com/klubbobsidian/), Göteborg
 * FEB 10 Solo at [Forum Stadtpark](https://forumstadtpark.at/de/programm/pink-must-konzert), Graz
 * JAN 24 Solo at [Klubojadalnia Młodsza Siostra](https://www.instagram.com/p/DTPqc6jjG_a/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==), Warsaw
 * JAN 23 Solo at [Spółdzielnia Ogniwo](https://www.instagram.com/p/DTYY-rMjeny/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==), Krakow

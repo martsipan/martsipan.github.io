@@ -5,7 +5,7 @@ title: Shows
 
 # SELECTED PERFORMANCES 2026
 
-* APR 25 Mixtapes (Premiere) performed by (Karin Hellqvist)[https://karinhellqvist.com/] at [Only Connect Festival](https://nymusikk.no/arrangementer/only-connect-oslo-karin-hellqvist), Oslo
+* APR 25 Mixtapes (Premiere) performed by [Karin Hellqvist](https://karinhellqvist.com/) at [Only Connect Festival](https://nymusikk.no/arrangementer/only-connect-oslo-karin-hellqvist), Oslo
 * APR 11 Together w/ Tim Holland at [Frühlingsfest Blüten+Kelche](https://www.instagram.com/festival_bluetenundkelche/), Hannover
 * MAR 27 Solo at [PIES andaluzyjski](https://www.facebook.com/klubokawiarnia.pies/), Poznan
 * MAR 15 Solo at [Cosmos Campolide](https://www.facebook.com/cosmos.cac/), Lisbon

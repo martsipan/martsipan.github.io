@@ -10,6 +10,7 @@ title: Shows
 * MAR 27 Solo at [PIES andaluzyjski](https://www.facebook.com/klubokawiarnia.pies/), Poznan
 * MAR 15 Solo at [Cosmos Campolide](https://www.facebook.com/cosmos.cac/), Lisbon
 * MAR 14 Solo at [Rock Da Baixamar](https://www.facebook.com/rockdabaixamar.associacao/), Tavira
+* MAR 14 Ljuset performed by [Tusen Tungor](https://tusentungor.com/svensk-musikv%C3%A5r-minnets-mosaik-tusen-tungor) at [Svensk Musikvår](https://www.svenskmusikvar.se/), Stockholm
 * FEB 27 Trio together w/ [Erik Dahl](https://erik-dahl.se/) and [Donovan von Martens](https://www.donovanvonmartens.com/) at [Klubb Obsidian, Scen 46](https://svalkarecords.com/klubbobsidian/), Göteborg
 * FEB 10 Solo at [Forum Stadtpark](https://forumstadtpark.at/de/programm/pink-must-konzert), Graz
 * JAN 24 Solo at [Klubojadalnia Młodsza Siostra](https://www.instagram.com/p/DTPqc6jjG_a/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==), Warsaw

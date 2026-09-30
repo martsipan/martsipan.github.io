@@ -4,4 +4,10 @@ title: Contact
 picture: /assets/images/light.jpg
 ---
 
-contact at martaforsberg com
+Management: a.b.donoval at gmail.com 
+Contact: contact at martaforsberg.com
+
+Newsletter (coming soon!)
+[Instagram](https://www.instagram.com/littlest__freckle/)
+[Bandcamp](https://martaforsberg.bandcamp.com/music)
+

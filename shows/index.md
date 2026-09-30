@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Shows
+title: Live
 ---
 
 # SELECTED PERFORMANCES 2026

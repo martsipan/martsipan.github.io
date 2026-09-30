@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Contact
-picture: /assets/images/light.jpg
+picture: /assets/images/Photo_Kata_Kwiatkowska_3.jpg
 ---
 
 Management: a.b.donoval at gmail.com 

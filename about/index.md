@@ -8,6 +8,6 @@ Marta Forsberg is a Swedish-Polish, Berlin-based artist whose work constantly sh
 
 About Archeology of Intimacy:
 
-[The Swedish-Polish composer has crafted her most personal work yet, using a deliberately narrow palette of synthesizers and fretless bass to create music that sounds both ancient and futuristic, like folklore transmitted through machines.](https://foxydigitalis.zone/2025/09/25/the-intimate-universe-of-marta-forsberg/)
+*[The Swedish-Polish composer has crafted her most personal work yet, using a deliberately narrow palette of synthesizers and fretless bass to create music that sounds both ancient and futuristic, like folklore transmitted through machines.](https://foxydigitalis.zone/2025/09/25/the-intimate-universe-of-marta-forsberg/)*
 
 *Photo by Kata Kwiatkowska*

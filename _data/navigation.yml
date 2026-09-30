@@ -1,14 +1,14 @@
 - title: About
   url: /about/
-
-- title: Listen
-  url: /listen/
   
 - title: Releases
   url: /releases/
 
 - title: Live
   url: /live/
+
+- title: Listen
+  url: /listen/
 
 - title: Contact
   url: /contact/

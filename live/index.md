@@ -5,6 +5,7 @@ title: Live
 
 # SELECTED PERFORMANCES 2026
 
+* NOV 5 Solo at [Upstream](https://www.stubnitz.com/events/2026/nov/05-upstreamreso.html), Hamburg
 * MAY 8 Solo at [Bathyscaphe](https://www.bathyscaphe.be/public/?page=events&lang=fr), Brussels
 * APR 25 Mixtapes (Premiere) performed by [Karin Hellqvist](https://karinhellqvist.com/) at [Only Connect Festival](https://nymusikk.no/arrangementer/only-connect-oslo-karin-hellqvist), Oslo
 * APR 16 Solo/Duo together w/ [Steve Heather](https://steveheather.net/about/) at [Sowieso](https://www.sowiesoberlin.com/), Berlin

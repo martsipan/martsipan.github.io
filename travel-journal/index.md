@@ -30,7 +30,7 @@ There has been a couple of fantastic compilations released this fall, which incl
 
 I'm also working on a new archival project at Föreningsarkivet Västernorrland. Together with sound artists Louise Ölund and Jim Hoult we're invited to explore the sounding part of the archive, consisting mostly of interviews made with people who were active in the workers movement in the north of Sweden during the first half of the 1900s. Super exciting!! 
 
-![Kubikenborg](/assets/images/Fotografi, Kubikenborgs brädgård, sekelskiftet.jpg)
+![Kubikenborg](/assets/images/Fotografi_Kubikenborg_brädgård_sekelskiftet.jpg)
 *Workers at Kubikenborg wood factory, around year 1900*
 
 And then the thing that occupies me the most these last months - I'm working on a new record <3 it feels wonderful and scary as always, this time I wanna have more friends being part of the process. First one to join is my longtime friend and support node, and now also my manager, Adam Badí Donoval - helping me figure out the path forward and keeping an ear to the music I make. I feel unbelievably grateful for this! <3

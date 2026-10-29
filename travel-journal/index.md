@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Travel Journal
+title: Newsletter
 ---
 
 ## Newsletter / Blog

@@ -11,8 +11,6 @@ Hi, this is Marta, welcome to my Newsletter / Blog! If you're curious about what
 
 ## October 29th 2026
 
-°❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･
-
 First newsletter!
 
 Dear friends,
@@ -24,7 +22,9 @@ Feels really good to be in touch like this, my first newsletter, wow! I will try
 My record ["Archaeology of Intimacy"](https://martaforsberg.bandcamp.com/album/archaeology-of-intimacy) has been out for a year now, and its been a wonderful time performing this music around Europe. Now I'm playing two last shows of this year:
 
 ꨄ︎ Hamburg on November 5th, at Stubnitz as part of the concert series [Upstream](https://www.stubnitz.com/events/2026/nov/05-upstreamreso.html). Alex Zhang Hungtai and Tripolar Ghost are also playing, amazing evening!
+
 ꨄ︎ Berlin on November 18th, at [Sowieso](https://www.sowiesoberlin.com/). Sharing the evening with super star string trio Maccabee–Marino–Walker, will be great!!
+
 There has been a couple of fantastic compilations released this fall, which include tracks of mine, from two of my favorite labels ♡ [Synthetic Water Music at mappa](https://mappa.bandcamp.com/album/synthetic-water-music) and [Superpang: World Tour Vol.2 at Superpang](https://superpang.bandcamp.com/album/superpang-world-tour-vol-2) ♡ full of wonderful music, have a listen!
 
 ![mappa-Superpang](/assets/images/mappa-Superpang.png)
@@ -37,6 +37,7 @@ I'm also working on a new archival project at [Föreningsarkivet Västernorrland
 And then the thing that occupies me the most these last months - I'm working on a new record <3 it feels wonderful and scary as always, this time I wanna have more friends being part of the process. First one to join is my longtime friend and support node, and now also my manager, [Adam Badí Donoval](https://abdonoval.com/) - helping me figure out the path forward and keeping an ear to the music I make. I feel unbelievably grateful for this! <3
 
 Lastly - favorite music, listening on repeat: ["Dalok" by Adela Mede & Štefan Szabó](https://42far.bandcamp.com/album/dalok), ["I Love My Computer" by Ninajirachi](https://ninajirachi.bandcamp.com/album/i-love-my-computer) and ["Polski Sklep" by Krenz](https://krenz.bandcamp.com/album/polski-sklep) ♡
+
 Thanks again for reading, and lots of love!
 /Marta ♡♡♡
 

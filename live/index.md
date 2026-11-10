@@ -5,6 +5,9 @@ title: Live
 
 # SELECTED PERFORMANCES 2026
 
+* NOV 20 Solo, support for [Anna von Hausswolff](https://annavonhausswolff.com/) at [Felsenkeller Leipzig](https://www.felsenkeller-leipzig.com/programm/), Leipzig
+* NOV 19 Solo, support for [Anna von Hausswolff](https://annavonhausswolff.com/) at [ASTRA Kulturhaus](https://www.astra-berlin.de/events/2026-11-19-anna-von-hausswolff), Berlin
+* NOV 18 Solo, support for [Anna von Hausswolff](https://annavonhausswolff.com/) at [Stadthalle Köln](https://stadthalle.koeln/anna-von-hausswolff-iconoclasts-tour/), Köln
 * NOV 5 Solo at [Upstream](https://www.stubnitz.com/events/2026/nov/05-upstreamreso.html), Hamburg
 * MAY 8 Solo at [Bathyscaphe](https://www.bathyscaphe.be/public/?page=events&lang=fr), Brussels
 * APR 25 Mixtapes (Premiere) performed by [Karin Hellqvist](https://karinhellqvist.com/) at [Only Connect Festival](https://nymusikk.no/arrangementer/only-connect-oslo-karin-hellqvist), Oslo
